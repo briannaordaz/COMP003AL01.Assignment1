@@ -99,6 +99,16 @@ static void Main(string[] args)
     Console.WriteLine("88. I've always wanted to work at Microsoft");
     Console.WriteLine("89. I want to learn how to build a robot");
     Console.WriteLine("90. A career I used to be interested in is Cybersecurity");
+    Console.WriteLine("91. I don't know exactly what job I want, I just know I want a job in the tech industry");
+    Console.WriteLine("92. I like going to the beach sometimes");
+    Console.WriteLine("93. I own a kia optima 2015");
+    Console.WriteLine("94. Someone crashed into my car and now I can't use it");
+    Console.WriteLine("95. A video game I like playing is Minecraft");
+    Console.WriteLine("96. Another game I play sometimes (rarely) is Roblox");
+    Console.WriteLine("97. I sometimes sleep really late");
+    Console.WriteLine("98. I like shopping");
+    Console.WriteLine("99. I like going to the park with friends");
+    Console.WriteLine("100. I started college in fall of 2024");
 
 
 }
