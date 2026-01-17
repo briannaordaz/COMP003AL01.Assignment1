@@ -49,6 +49,16 @@ static void Main(string[] args)
     Console.WriteLine("38. I had braces before going to college");
     Console.WriteLine("39. I've had front-end web developing classes");
     Console.WriteLine("40. I've also had back-end web developing classes");
+    Console.WriteLine("41. My room is white and pink");
+    Console.WriteLine("42. My second favorite color is pink");
+    Console.WriteLine("43. My third favorite color is purple");
+    Console.WriteLine("44. Some other school subjects I loved besides math are History and Art");
+    Console.WriteLine("45. I promoted from middle school in 2020");
+    Console.WriteLine("46. Had to take online classes for my freshman year of highschool due to covid");
+    Console.WriteLine("47. I own a Macbook Pro m4");
+    Console.WriteLine("48. I think Windows is better than MacOS");
+    Console.WriteLine("49. I have 3 friends");
+    Console.WriteLine("50. I live in an apartment of two rooms");
     
     
 }
