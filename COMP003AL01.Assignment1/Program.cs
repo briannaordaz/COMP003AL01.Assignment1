@@ -59,6 +59,16 @@ static void Main(string[] args)
     Console.WriteLine("48. I think Windows is better than MacOS");
     Console.WriteLine("49. I have 3 friends");
     Console.WriteLine("50. I live in an apartment of two rooms");
+    Console.WriteLine("51. I share a room with a brother");
+    Console.WriteLine("52. I sleep on the top bunk-bed");
+    Console.WriteLine("53. I like listening to music");
+    Console.WriteLine("54. My favorite genre is pop ");
+    Console.WriteLine("55. My favorite singer is Ariana Grande");
+    Console.WriteLine("56. I also like listening to kpop sometimes");
+    Console.WriteLine("57. I I moved a lot growing up");
+    Console.WriteLine("58. I have 4 phone chargers");
+    Console.WriteLine("59. I like watching Movies");
+    Console.WriteLine("60. My favorite movie is Avatar");
     
     
 }
