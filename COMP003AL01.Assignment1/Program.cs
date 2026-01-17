@@ -65,12 +65,22 @@ static void Main(string[] args)
     Console.WriteLine("54. My favorite genre is pop ");
     Console.WriteLine("55. My favorite singer is Ariana Grande");
     Console.WriteLine("56. I also like listening to kpop sometimes");
-    Console.WriteLine("57. I I moved a lot growing up");
+    Console.WriteLine("57. I moved a lot growing up");
     Console.WriteLine("58. I have 4 phone chargers");
     Console.WriteLine("59. I like watching Movies");
     Console.WriteLine("60. My favorite movie is Avatar");
-    
-    
+    Console.WriteLine("61. I ate breakfast with my cousins today");
+    Console.WriteLine("62. I will go to mexico this summer");
+    Console.WriteLine("63. My favorite book right now is 'If he had been with me'");
+    Console.WriteLine("64. I like watching sad and action movies");
+    Console.WriteLine("65. I have 3 backpacks");
+    Console.WriteLine("66. My mom and her sisters all have the same first name");
+    Console.WriteLine("67. two of my brothers are half-brothers");
+    Console.WriteLine("68. One of my brothers have the same mom as me but different dad");
+    Console.WriteLine("69. The other brother has the same dad as me but different mom");
+    Console.WriteLine("70. I wish to live in New York");
+
+
 }
 
 }
