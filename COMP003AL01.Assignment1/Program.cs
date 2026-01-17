@@ -29,6 +29,16 @@ static void Main(string[] args)
     Console.WriteLine("18. I like playing video games");
     Console.WriteLine("19. I like drawing");
     Console.WriteLine("20. I like to read books");
+    Console.WriteLine("21. I love coffee");
+    Console.WriteLine("22. I want to travel the world");
+    Console.WriteLine("23. I love technology");
+    Console.WriteLine("24. I want to get a job that allows me to be financially stable");
+    Console.WriteLine("25. I went to mexico for a 1 week and just came back on saturday");
+    Console.WriteLine("26. I'll turn 20 in 3 months");
+    Console.WriteLine("27. I like building and fixing things");
+    Console.WriteLine("28. I will go camping this weekend");
+    Console.WriteLine("29. I love being in nature");
+    Console.WriteLine("30. I walk every morning");
     
     
 }
