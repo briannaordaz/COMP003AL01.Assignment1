@@ -89,6 +89,16 @@ static void Main(string[] args)
     Console.WriteLine("78. Once I turned 8 I owned an xbox 360");
     Console.WriteLine("79. The last gaming console I have is a Wii U");
     Console.WriteLine("80. I learned how to use a computer at 5 or 6 years old");
+    Console.WriteLine("81. In my house, I was the only one who knew how to use a computer when I was young so I was always on it");
+    Console.WriteLine("82. Something I liked doing was messing with the computer and especially going on files explorer and seeing what each file was for");
+    Console.WriteLine("83. I had my own room as a kid but now I have to share it with a brother");
+    Console.WriteLine("84. My favorite Windows version is Windows 10");
+    Console.WriteLine("85. On my free time I draw, read, or scroll on Tiktok");
+    Console.WriteLine("86. My favorite food is Pozole (mexican food)");
+    Console.WriteLine("87. I'm retaking a C# class");
+    Console.WriteLine("88. I've always wanted to work at Microsoft");
+    Console.WriteLine("89. I want to learn how to build a robot");
+    Console.WriteLine("90. A career I used to be interested in is Cybersecurity");
 
 
 }
