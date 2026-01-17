@@ -39,6 +39,16 @@ static void Main(string[] args)
     Console.WriteLine("28. I will go camping this weekend");
     Console.WriteLine("29. I love being in nature");
     Console.WriteLine("30. I walk every morning");
+    Console.WriteLine("31. I went to Universal Studios for my birthday");
+    Console.WriteLine("32. I've been to Disneyland");
+    Console.WriteLine("33. I went to six flags for my highschool graduation");
+    Console.WriteLine("34. I love dogs");
+    Console.WriteLine("35. I want to visit Hawaii");
+    Console.WriteLine("36. I want to go to Paris");
+    Console.WriteLine("37. I own 4 pair of shoes");
+    Console.WriteLine("38. I had braces before going to college");
+    Console.WriteLine("39. I've had front-end web developing classes");
+    Console.WriteLine("40. I've also had back-end web developing classes");
     
     
 }
