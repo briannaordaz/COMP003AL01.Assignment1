@@ -79,6 +79,16 @@ static void Main(string[] args)
     Console.WriteLine("68. One of my brothers have the same mom as me but different dad");
     Console.WriteLine("69. The other brother has the same dad as me but different mom");
     Console.WriteLine("70. I wish to live in New York");
+    Console.WriteLine("71. Some states I've visited in the USA apart from the ones I've lived in are Kentucky Iowa");
+    Console.WriteLine("72. I hope to adopt a dog one day");
+    Console.WriteLine("73. My hamster's name was Mater (named after one of the cars from the Mcqueen cartoon)");
+    Console.WriteLine("74. My first ever video game console was the Super Nintendo Entertainment System (SNES)");
+    Console.WriteLine("75. I got my first console when I was 5");
+    Console.WriteLine("76. Some games I loved playing as a child were PAC-MAN, Super Monkey Ball, and Super Mario World");
+    Console.WriteLine("77. My second gaming console was a PS2");
+    Console.WriteLine("78. Once I turned 8 I owned an xbox 360");
+    Console.WriteLine("79. The last gaming console I have is a Wii U");
+    Console.WriteLine("80. I learned how to use a computer at 5 or 6 years old");
 
 
 }
